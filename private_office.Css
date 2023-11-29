@@ -1,0 +1,122 @@
+body {
+    background: #f5f5f5;
+    margin: 0%;
+    padding: 0%;
+}
+
+.tablemove {
+    margin-right:10%;
+    margin-left: 10%;
+    text-align: center;
+    width: 80%;
+    margin-top: 2%;
+}
+
+.th1 {
+    width: 8%;
+    font-size: 1.2em;
+}
+
+.th4 {
+    font-size: 2.5em;
+
+}
+
+
+.th5 {
+    width: 22%;
+    font-size: 1.2em;
+}
+
+
+.imgsearch {
+    width: 13%;
+} 
+
+.tableinp {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left:10% ;
+    margin-right:70% ;
+    width: 20%;
+
+}
+
+.thimg {
+    width: 100%;
+    text-align: left;
+
+}
+
+.thinput {
+    text-align: right;
+    width: 5%;
+}
+
+.up {
+    margin-bottom: 5%;
+}
+
+.tablefoot {
+    text-align: left;
+    width: 60%;
+    padding-top: 3%;
+    font-size: 1.1em;
+    padding-left: 5%;
+    padding-bottom:3%;
+}
+
+footer {
+    background:#d6d6d6 ;
+    margin-top:3% ;
+    margin-right:0% ;
+    margin-left:0% ;
+    margin-bottom: 0%;
+    padding-right: 0%;
+    padding-left: 0%;
+    padding-bottom: 0%;
+}
+
+a {
+    text-decoration:none;
+    color: black;
+}
+
+.tableicon {
+    width: 15%;
+    margin-left: 80%;
+}
+
+img {
+    width:30%;
+    margin-top:10%;
+    color: grey;
+}
+
+.hi {
+    font-size: 2.5em;
+}
+
+.how {
+    font-size: 2.0em;
+}
+
+.big{
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+}
+
+.box {
+    text-align: left;
+    font-size: 1.8em;
+}
+
+.table1 {
+    width: 100%;
+    margin-top: 3%;
+}
+
+.imgh {
+    width: 7%;
+}
